@@ -8,7 +8,7 @@ export default {
   name: "App",
   data: function() {
     return {
-      message: "Hola Mundo",
+      message: "Hello World",
     };
   },
 };
